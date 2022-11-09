@@ -1,0 +1,7 @@
+import os
+from numpy import random as rd
+in_fdname = "traindata/"
+out_fdname = "testdata/"
+for fname in os.listdir(in_fdname):
+    if rd.randint(0, 2) == 0:
+        os.system(f"mv {in_fdname + fname} {out_fdname + fname}")
