@@ -1,0 +1,12 @@
+--2022-11-11 17:07:04--  https://media.donedeal.ie/eyJidWNrZXQiOiJkb25lZGVhbC5pZS1waG90b3MiLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6ImpwZWciLCJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6NjAwLCJoZWlnaHQiOjQ1MH19LCJrZXkiOiJwaG90b18yMzQwNDY5OTIifQ==?signature=e8c8195f77cd11c0f126398636c228fb6b5eee8951fca1ec1a21e3c20f7fc526
+Resolving media.donedeal.ie (media.donedeal.ie)... 99.86.114.58, 99.86.114.29, 99.86.114.13, ...
+Connecting to media.donedeal.ie (media.donedeal.ie)|99.86.114.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99461 (97K) [image/jpeg]
+Saving to: ‘./train_types/plantmachinery/plantmachinery_309.jpg’
+
+     0K .......... .......... .......... .......... .......... 51% 3.35M 0s
+    50K .......... .......... .......... .......... .......   100% 4.40M=0.03s
+
+2022-11-11 20:28:28 (3.79 MB/s) - ‘./train_types/plantmachinery/plantmachinery_309.jpg’ saved [99461/99461]
+
